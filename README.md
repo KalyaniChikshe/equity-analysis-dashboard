@@ -31,9 +31,10 @@ This dashboard has been **officially launched** as part of the **Strategic Plan 
 ---
 
 ## Screenshots
-![Dashboard Overview](screenshots/dashboard_overview.png)  
-![Department Breakdown](screenshots/department_breakdown.png)  
-![Trends Summary](screenshots/trends_summary.png)
+![Revenue Dashboard](https://github.com/KalyaniChikshe/equity-analysis-dashboard/blob/main/Screenshots/revenue.PNG)  
+![Student Outcomes Dashboard](https://github.com/KalyaniChikshe/equity-analysis-dashboard/blob/main/Screenshots/Student%20outcomes.PNG)  
+![Research Dashboard](https://github.com/KalyaniChikshe/equity-analysis-dashboard/blob/main/Screenshots/research.PNG)
+![Global Campus Dashboard](https://github.com/KalyaniChikshe/equity-analysis-dashboard/blob/main/Screenshots/Global%20Campus.PNG)
 
 ---
 
